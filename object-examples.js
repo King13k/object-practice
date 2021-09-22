@@ -18,3 +18,11 @@ var animal = {
 
 }
 console.log(animal)
+
+var customer = {
+  demographic:'young adults',
+  sex:['male', 'female'],
+  income:['median'],
+  education:['diploma', 'degree'],
+}
+console.log(customer)
